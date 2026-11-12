@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'ABeeZee';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/esDR31xSG-6AGleN2tWklQ-fd819287.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxRSW3z-1dc74f2f.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW3z-8f27d99d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW3z-d2b1b41a.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRSW3z-80d74872.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRSW3z-a8a31247.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8-e119f502.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8-dfcbed5c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8-82acb2d8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8-fa7c7df8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8-53f80373.ttf) format('truetype');
+}
